@@ -1,0 +1,6 @@
+# Configuration for WAL
+WAL:
+  prefix : '&4&l[&f&lWAL&4&l]&f'
+  server_name: 'Server Name'
+  welcome_msg: '{{ prefix }} Welcome to {{ server_name }}'
+  quit_msg: '{{ prefix }} Thanks for coming to {{ server_name }}'

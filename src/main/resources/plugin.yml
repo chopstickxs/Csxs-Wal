@@ -1,0 +1,7 @@
+name: Wal
+version: ${project.version}
+main: club.csxs.wal.Wal
+prefix: WAL
+authors: [ chopstickxs ]
+description: A welcome and leave plugin for spigot 1.12
+website: https://github.com/chopstickxs/Csxs-Wal
